@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "react-redux": "registry:npm/react-redux#4.4.0+20160614222153",
+    "redux-immutable": "registry:npm/redux-immutable#3.0.6+20160310030142",
+    "redux-thunk": "registry:npm/redux-thunk#2.0.0+20160525185520"
+  },
+  "globalDependencies": {
+    "lodash": "registry:dt/lodash#4.14.0+20161110215204",
+    "react": "registry:dt/react#0.14.0+20161024223416",
+    "react-native": "registry:dt/react-native#0.34.0+20161025145826",
+    "redux": "registry:dt/redux#3.5.2+20160703092728",
+    "redux-logger": "registry:dt/redux-logger#2.6.0+20160619033847"
+  }
+}
